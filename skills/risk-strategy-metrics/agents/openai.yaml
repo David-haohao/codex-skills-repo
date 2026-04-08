@@ -1,0 +1,4 @@
+interface:
+  display_name: "Risk Strategy Metrics"
+  short_description: "Credit risk metrics and toad workflow helper"
+  default_prompt: "Analyze credit risk data with toad and explain model metrics."

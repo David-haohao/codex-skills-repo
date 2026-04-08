@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Initialization"
+  short_description: "Initialize analysis project folders"
+  default_prompt: "Use $project-initialization to create an analysis project root folder with a Beijing-date suffix and five standard subfolders."
