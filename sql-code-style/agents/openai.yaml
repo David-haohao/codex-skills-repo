@@ -1,0 +1,4 @@
+interface:
+  display_name: "SQL Code Style"
+  short_description: "Business-agnostic SQL style system"
+  default_prompt: "Apply sql-code-style to write or refactor SQL with layered structure, explicit grain, and low-duplication patterns."
